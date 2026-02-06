@@ -4,8 +4,7 @@
 🎓 Graduando em Ciência da Computação — Universidade Federal do Ceará (UFC) *|*  
 💻 Desenvolvedor Back End *|* Java  
 
-Atualmente sou graduando em **Ciência da Computação pela Universidade Federal do Ceará (UFC)**, com foco no **desenvolvimento Back End com aplicações desktop em Java**.  
-Trabalho na **construção de aplicações bem estruturadas**, com **código limpo**, seguindo **boas práticas de desenvolvimento e princípios de arquitetura de software**.
+Atualmente sou graduando em **Ciência da Computação pela Universidade Federal do Ceará (UFC)**, com foco no **desenvolvimento de aplicações desktop em Java**. Trabalho na **construção de aplicações bem estruturadas**, com **código limpo**, seguindo **boas práticas de desenvolvimento e princípios de arquitetura de software**.
 
 ---
 
