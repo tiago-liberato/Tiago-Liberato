@@ -1,4 +1,4 @@
-### Olá, pessoal 🖐️, meu nome é Tiago Liberato
+### Olá pessoal 🖐️, meu nome é Tiago Liberato
 ---
 
 🎓 Graduando em Ciência da Computação — Universidade Federal do Ceará (UFC) *|*  
