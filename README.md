@@ -4,7 +4,7 @@
 
 Olá, meu nome é Tiago Liberato.
 
-Atualmente sou graduando em Ciência da Computação pela Universidade Federal do Ceará (UFC), com foco no desenvolvimento back End e desktop em Java. Trabalho na construção de soluções bem estruturadas, com código limpo, seguindo boas práticas de desenvolvimento e princípios de arquitetura de software. Estou em busca de uma vaga de estágio na área de desenvolvimento, a fim de ingressar no mercado de TI e aprimorar minhas habilidades técnicas.
+Sou graduando em Ciência da Computação pela Universidade Federal do Ceará (UFC), com foco no desenvolvimento back End e desktop em Java. Trabalho na construção de soluções bem estruturadas, com código limpo, seguindo boas práticas de desenvolvimento e princípios de arquitetura de software. Estou em busca de uma vaga de estágio na área de desenvolvimento, a fim de ingressar no mercado de TI e aprimorar minhas habilidades técnicas.
 
 ### Linguagens e Ferramentas
 <table>
